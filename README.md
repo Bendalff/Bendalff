@@ -38,4 +38,6 @@ I used to be a normal person but then I started running a homelab. I am currentl
   
   ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-blue?style=flat-square&logo=Ubiquiti)
 
-  
+<!-- sources 
+https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+-->
