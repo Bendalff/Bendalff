@@ -2,7 +2,7 @@
 
 I´m Manu aka *Bendalff*, system/application engineer and operational specialist. I'm also an IBM MQ on Windows expert by pure luck.
 
-I used to be a normal person but then I started running a homelab. I am currently speedrunning the discovery process of terraform, kubernetes clusters, containers and deployments using Octopus Deploy. Just for fun and ridiculous reasons that barely make sense to most people I know including collegues. Salvation is no longer possible, only service availability ;-) 
+I used to be a normal person but then I started running a homelab. I am currently speedrunning the discovery process of terraform, kubernetes, containers and deployments through Octopus Deploy. Just for fun and ridiculous reasons that barely make sense to most people I know, including collegues. Salvation is no longer possible, only service availability ;-) 
 
 
 ## 🚀💻 Some Technologies & Tools I use
