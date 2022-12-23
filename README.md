@@ -1,9 +1,10 @@
 ## Hi there!</a>
 
-I´m Manu aka *Bendalff*, system/application engineer and operational specialist. I'm also an IBM MQ on Windows expert by pure luck.
+I´m Manu, an "Experienced IT Operations & Infrastructure Technical Lead for both on premises and in the Cloud systems". I'm also an IBM MQ on Windows expert by pure luck.
 
-I used to be a normal person but then I started running a homelab. I am currently speedrunning the discovery process of terraform, kubernetes, containers and deployments through Octopus Deploy or ArgoCD. Just for fun and ridiculous reasons that barely make sense to most people I know, including collegues. Salvation is no longer possible, only service availability ;-) 
+*Quite a mouthful (I know!) but nonetheless rather correct. It's so hard to describe what I do in maximum 200 characters.*
 
+I also run a homelab. I am currently speedrunning the discovery process of terraform, kubernetes, containers and deployments through Octopus Deploy or ArgoCD. Just for fun and ridiculous reasons that barely make sense to most people I know, including collegues.
 
 ## 🚀💻 Some Technologies & Tools I use
 
