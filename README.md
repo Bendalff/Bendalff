@@ -2,7 +2,7 @@
 
 **Infrastructure & Application Engineer | IT Operations & Infrastructure Technical Lead**
 
-I work across AI engineering, DevOps, infrastructure, and application security at Acerta, bringing 20+ years of experience building and operating reliable platforms.
+I am an independent freelancer, always available for projects. I bring 20+ years of experience across AI engineering, DevOps, infrastructure, and application security, including work with Acerta.
 
 - **AI engineering:** GitHub Copilot administration and governed AI-assisted engineering and operations.
 - **DevOps:** Reusable GitHub Actions for Octopus Deploy; Octopus platform owner and Acerta's main expert and evangelist.

@@ -6,7 +6,7 @@ Infrastructure & Application Engineer | IT Operations & Infrastructure Technical
 
 ## About
 
-I am an infrastructure and application engineer with more than 20 years of experience building, operating, and improving enterprise platforms. At Acerta, I combine hands-on infrastructure and DevOps engineering with technical leadership, platform administration, security collaboration, and production operations.
+I am an independent freelancer, always available for projects, with more than 20 years of experience building, operating, and improving enterprise platforms. In my work with Acerta, I combine hands-on infrastructure and DevOps engineering with technical leadership, platform administration, security collaboration, and production operations.
 
 I focus on dependable delivery: automating repeatable work, improving deployment and monitoring practices, strengthening identity and access controls, and helping teams operate services safely. I am also exploring practical, well-governed uses of AI in software engineering and IT operations, including the administration and adoption of GitHub Copilot.
 
@@ -14,7 +14,7 @@ My responsibilities span Windows and Linux environments, Azure services, CI/CD, 
 
 ## Experience
 
-### Acerta
+### Independent Freelancer | Current Engagement: Acerta
 
 **Infrastructure & Application Engineer | IT Operations & Infrastructure Technical Lead**
 
